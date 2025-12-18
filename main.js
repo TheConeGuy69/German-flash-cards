@@ -1,4 +1,4 @@
-async function fetchCsvData() {
+async function fetchCsvData(location) {
   // Replace with your actual GitHub raw CSV URL
   const rawUrl = 'https://raw.githubusercontent.com/TheConeGuy69/German-flash-cards/refs/heads/main/nouns.csv';
 
@@ -12,7 +12,7 @@ async function fetchCsvData() {
     // Get the response as plain text
     const text = await response.text();
 
-    document.getElementById("germanWord").textContent = text;
+    document.getElementById(location).textContent = text;
     console.log("CSV Data:", text);
 
     // You can now parse the text (e.g., with a library or custom function)
@@ -24,4 +24,4 @@ async function fetchCsvData() {
 }
 
 // Call the function to fetch the data
-fetchCsvData();
+fetchCsvData("germanWor");
