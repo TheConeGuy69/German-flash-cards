@@ -1,32 +1,27 @@
-const button = document.getElementById('myButton')
-let isHeld = false
-let holdtime = 0
+async function fetchCsvData() {
+  // Replace with your actual GitHub raw CSV URL
+  const rawUrl = 'https://raw.githubusercontent.com/TheConeGuy69/German-flash-cards/refs/heads/main/nouns.csv';
 
-function updateHoldTime() {
-    holdtime = holdtime + 1
+  try {
+    const response = await fetch(rawUrl);
+
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+
+    // Get the response as plain text
+    const text = await response.text();
+
+    document.getElementById("germanWord").textContent = text;
+    console.log("CSV Data:", text);
+
+    // You can now parse the text (e.g., with a library or custom function)
+    // processData(text);
+
+  } catch (error) {
+    console.error("Could not fetch the CSV file:", error);
+  }
 }
 
-button.addEventListener('mousedown', () => {
-    isHeld = true
-    console.log('Button is being held down')
-    holdtime = 0
-    while (isHeld) {
-        in(updateHoldTime, 100)
-    }
-})
-
-button.addEventListener('mouseup', () => {
-    isHeld = false
-    console.log('Button released')
-    console.log(`Button was held for ${holdtime} ms`)
-})
-
-button.addEventListener('mouseleave', () => {
-    if (isHeld) {
-        isHeld = false
-        console.log('Button released (mouseleave)')
-    }
-})  
-
-
-    
+// Call the function to fetch the data
+fetchCsvData();

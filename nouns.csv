@@ -1,4 +1,4 @@
-das;Jahr;year;Jahre
+﻿das;Jahr;year;Jahre
 das;Mal;time;Male
 das;Beispiel;example;Beispiele
 die;Zeit;time (hour);Zeiten
@@ -7,16 +7,16 @@ der;Mensch;human being, man;Menschen
 das;Deutsch;German;
 das;Kind;child;Kinder
 der;Tag;day;Tage
-der;Mann;man;M�nner
-das;Land;land, country, state;L�nder
+der;Mann;man;Männer
+das;Land;land, country, state;Länder
 die;Frage;question;Fragen
-das;Haus;house;H�user
-der;Fall;fall, case;F�lle
+das;Haus;house;Häuser
+der;Fall;fall, case;Fälle
 die;Leute;people;
 die;Arbeit;work;Arbeiten
 das;Prozent;percent;Prozente
-die;Hand;hand;H�nde
-die;Stadt;city, town;St�dte
+die;Hand;hand;Hände
+die;Stadt;city, town;Städte
 der;Herr;man, Mr.;Herren
 der/das;Teil;part;Teile
 das;Problem;problem;Probleme
@@ -26,13 +26,13 @@ das;Ende;end;Enden
 die;Million;million;Millionen
 die;Schule;school;Schulen
 die;Woche;week;Wochen
-der;Vater;father;V�ter
+der;Vater;father;Väter
 die;Seite;side, page;Seiten
 das;Leben;life;Leben
-die;Mutter;mother;M�tter
-der;Grund;reason, basis;Gr�nde
+die;Mutter;mother;Mütter
+der;Grund;reason, basis;Gründe
 das;Auge;eye;Augen
-das;Wort;word;W�rter
+das;Wort;word;Wörter
 das;Geld;money;Gelder
 die;Art;type, kind;Arten
 der;Bereich;area, region;Bereiche
@@ -41,12 +41,12 @@ die;Stunde;hour;Stunden
 der;Name;name;Namen
 die;Geschichte;history, story;Geschichten
 die;Gesellschaft;society, company;Gesellschaften
-der;Kopf;head;K�pfe
+der;Kopf;head;Köpfe
 das;Paar;pair, couple;Paare
-die;M�glichkeit;possibility;M�glichkeiten
+die;Möglichkeit;possibility;Möglichkeiten
 das;Unternehmen;enterprise, company;Unternehmen
 das;Bild;picture;Bilder
-das;Buch;book;B�cher
+das;Buch;book;Bücher
 das;Wasser;water;Wasser
 die;Stelle;place;Stellen
 die;Form;form, shape;Formen
@@ -56,7 +56,7 @@ die;Familie;family;Familien
 der;Morgen;morning;Morgen
 der;Abend;evening;Abende
 die;Aufgabe;task, assignment, job;Aufgaben
-die;Universit�t;university;Universit�ten
+die;Universität;university;Universitäten
 der;Sinn;sense, meaning;Sinne
 der;Staat;state;Staaten
 das;Ziel;destination, goal;Ziele
@@ -64,39 +64,39 @@ der;Freund;friend;Freunde
 das;Thema;subject, topic, theme;Themen
 die;Person;person;Personen
 der;Euro;euro;Euro
-die;Nacht;night;N�chte
+die;Nacht;night;Nächte
 das;Ding;thing;Dinge
-der;Raum;room, space;R�ume
+der;Raum;room, space;Räume
 der;Blick;look, view, glance;Blicke
-der;Platz;place, room, square;Pl�tze
+der;Platz;place, room, square;Plätze
 die;Zahl;number;Zahlen
 das;System;system;Systeme
 die;Uhr;clock, watch, o'clock;Uhren
 die;Eltern;parents;
-die;Stra�e;street;Stra�en
+die;Straße;street;Straßen
 die;Minute;minute;Minuten
 die;Gruppe;group;Gruppen
 der;Wert;value;Werte
 das;Gesicht;face;Gesichter
 die;Sprache;language;Sprachen
-der;Anfang;beginning;Anf�nge
+der;Anfang;beginning;Anfänge
 der;Ort;place, town, location;Orte
 der;Moment;moment;Momente
 die;Folge;result, consequence;Folgen
 das;Interesse;interest;Interessen
 die;Milliarde;billion;Milliarden
 die;Rolle;role;Rollen
-die;T�r;door;T�ren
-der;Sch�ler;pupil, student;Sch�ler
+die;Tür;door;Türen
+der;Schüler;pupil, student;Schüler
 die;Bedeutung;meaning, significance;Bedeutungen
 der;Text;text;Texte
 das;Ergebnis;result;Ergebnisse
 der;Krieg;war;Kriege
 die;Weise;way, manner;Weisen
 die;Regierung;rule, government;Regierungen
-das;St�ck;piece;St�cke
+das;Stück;piece;Stücke
 die;Wohnung;apartment;Wohnungen
-das;Gespr�ch;conversation;Gespr�che
+das;Gespräch;conversation;Gespräche
 der;Meter;meter;Meter
 der;Punkt;dot, point, period;Punkte
 die;Situation;situation;Situationen
@@ -105,58 +105,58 @@ der;Preis;price, prize;Preise
 die;Abbildung;illustration;Abbildungen
 der;Begriff;concept, idea, term;Begriffe
 die;Funktion;function;Funktionen
-der;Boden;ground, floor, bottom;B�den
+der;Boden;ground, floor, bottom;Böden
 das;Jahrhundert;century;Jahrhunderte
-der;Sohn;son;S�hne
+der;Sohn;son;Söhne
 das;Werk;work;Werke
 die;Stimme;voice, vote;Stimmen
 der;Rahmen;frame, framework;Rahmen
 die;Richtung;direction;Richtungen
 das;Programm;program;Programme
-die;Angst;fear, anxiety;�ngste
+die;Angst;fear, anxiety;Ängste
 die;Information;information;Informationen
-die;Kunst;art;K�nste
+die;Kunst;art;Künste
 die;Musik;music;Musiken
 die;Politik;politics;Politiken
 der;Beruf;occupation, job, profession;Berufe
 die;Regel;rule;Regeln
 der;Schritt;step;Schritte
-der;Absatz;sales, paragraph, heel;Abs�tze
-der;Gott;god;G�tter
+der;Absatz;sales, paragraph, heel;Absätze
+der;Gott;god;Götter
 das;Auto;automobile, car;Autos
 die;Beziehung;relation, relationship;Beziehungen
 die;Erfahrung;experience;Erfahrungen
 der;Tisch;table;Tische
-die;Zukunft;future;Zuk�nfte
+die;Zukunft;future;Zukünfte
 das;Spiel;game;Spiele
-das;Gef�hl;feeling;Gef�hle
+das;Gefühl;feeling;Gefühle
 das;Licht;light;Lichter
-der;Pr�sident;president;Pr�sidenten
-der;Markt;market;M�rkte
-die;Bank;bank, bench;B�nke
+der;Präsident;president;Präsidenten
+der;Markt;market;Märkte
+die;Bank;bank, bench;Bänke
 die;Partei;political party;Parteien
-die;Tochter;daughter;T�chter
-das;Verh�ltnis;relationship;Verh�ltnisse
+die;Tochter;daughter;Töchter
+das;Verhältnis;relationship;Verhältnisse
 die;Kirche;church;Kirchen
 der;Film;film;Filme
 der;Gedanke;thought;Gedanken
 der;Doktor;doctor;Doktoren
-das;M�dchen;girl;M�dchen
+das;Mädchen;girl;Mädchen
 die;Entscheidung;decision;Entscheidungen
 der;Prozess;trial, process;Prozesse
 der;Betrieb;business, operation;Betriebe
-der;Zusammenhang;connection, context;Zusammenh�nge
+der;Zusammenhang;connection, context;Zusammenhänge
 das;Gesetz;law;Gesetze
 der;Arm;arm;Arme
 die;Firma;firm, company;Firmen
-die;Kraft;strength, power;Kr�fte
+die;Kraft;strength, power;Kräfte
 der;Student;student;Studenten
 das;Zuhause;home;
 die;Chance;chance;Chancen
 die;Zeitung;newspaper;Zeitungen
 der;Erfolg;success;Erfolge
 die;Grenze;border, frontier;Grenzen
-der;Satz;sentence;S�tze
+der;Satz;sentence;Sätze
 das;Angebot;offer;Angebote
 das;Internet;internet;
 die;Kultur;culture;Kulturen
@@ -166,18 +166,18 @@ das;Mitglied;member;Mitglieder
 das;Projekt;project;Projekte
 das;Zimmer;room;Zimmer
 der;Chef;head, leader, boss;Chefs
-der;Zug;train;Z�ge
-der;Arzt;physician, doctor;�rzte
+der;Zug;train;Züge
+der;Arzt;physician, doctor;Ärzte
 das;Auftreten;behavior, conduct, occurrence;
-der;Fu�;foot;F��e
-der;K�rper;body;K�rper
+der;Fuß;foot;Füße
+der;Körper;body;Körper
 die;Klasse;class;Klassen
-die;L�sung;solution;L�sungen
+die;Lösung;solution;Lösungen
 das;Verhalten;behavior;Verhalten
-die;H�he;height, altitude;H�hen
+die;Höhe;height, altitude;Höhen
 der;Junge;boy;Jungen
 das;Fenster;window;Fenster
-die;Luft;air;L�fte
+die;Luft;air;Lüfte
 die;Meinung;opinion;Meinungen
 die;Idee;idea;Ideen
 das;Produkt;product;Produkte
@@ -190,28 +190,28 @@ das;Bett;bed;Betten
 der;Kunde;customer, client;Kunden
 der;Mitarbeiter;employee, co-worker;Mitarbeiter
 der;Tod;death;Tode
-das;Gesch�ft;business;Gesch�fte
-der;Spa�;fun;Sp��e
+das;Geschäft;business;Geschäfte
+der;Spaß;fun;Späße
 die;Wirtschaft;economy, commerce;Wirtschaften
 das;Tier;animal;Tiere
 die;Bewegung;movement, motion;Bewegungen
-der;Gast;guest;G�ste
+der;Gast;guest;Gäste
 die;Sicherheit;security, safety;Sicherheiten
-der;Einsatz;inset, deployment;Eins�tze
+der;Einsatz;inset, deployment;Einsätze
 das;Gebiet;region, area;Gebiete
 der;Dank;gratefulness;
-das;Dorf;village;D�rfer
+das;Dorf;village;Dörfer
 der;Kollege;colleague;Kollegen
 die;Angabe;information, statement;Angaben
-der;Bruder;brother;Br�der
-die;Verf�gung;disposal;Verf�gungen
-das;Fach;compartment, subject;F�cher
+der;Bruder;brother;Brüder
+die;Verfügung;disposal;Verfügungen
+das;Fach;compartment, subject;Fächer
 das;Herz;heart;Herzen
 der;Kontakt;contact;Kontakte
 die;Menge;quantity, amount;Mengen
 der;Sommer;summer;Sommer
 der;Unterschied;difference;Unterschiede
-der;Anspruch;claim;Anspr�che
+der;Anspruch;claim;Ansprüche
 die;Antwort;answer, reply;Antworten
 die;Verbindung;connection, link;Verbindungen
 die;Vorstellung;idea, introduction;Vorstellungen
@@ -223,24 +223,24 @@ die;Polizei;police;Polizeien
 das;Theater;theater;Theater
 die;Ausbildung;training, development;Ausbildungen
 die;Gefahr;danger;Gefahren
-das;Ger�t;tool, piece of equipment, appliance;Ger�te
+das;Gerät;tool, piece of equipment, appliance;Geräte
 der;Kilometer;kilometer;Kilometer
 die;Hilfe;help;Hilfen
 der;Computer;computer;Computer
 der;Dollar;dollar;Dollar
 das;Verfahren;method, process, technique;Verfahren
-der;Vertrag;contract;Vertr�ge
-die;Ma�nahme;measure;Ma�nahmen
+der;Vertrag;contract;Verträge
+die;Maßnahme;measure;Maßnahmen
 die;Mitte;middle;Mitten
 die;Ordnung;order, tidiness;Ordnungen
 der;Stoff;material, substance;Stoffe
 der;Beginn;beginning;Beginne
-das;Gl�ck;luck, fortune;
+das;Glück;luck, fortune;
 das;Wochenende;weekend;Wochenenden
 der;Professor;professor;Professoren
 die;Reihe;row, line;Reihen
 der;Westen/West;west;
-die;Bev�lkerung;population, people;Bev�lkerungen
+die;Bevölkerung;population, people;Bevölkerungen
 das;Institut;institute;Institute
 der;Osten/Ost;east;
 die;Schwester;sister;Schwestern
@@ -249,8 +249,8 @@ die;Ebene;plane, level;Ebenen
 die;Reise;journey, trip;Reisen
 die;Einheit;unity, unit;Einheiten
 das;Haar;hair;Haare
-das;L�cheln;smile;L�cheln
-die;N�he;vicinity, proximity;
+das;Lächeln;smile;Lächeln
+die;Nähe;vicinity, proximity;
 das;Prinzip;principle;Prinzipien
 der;Vorteil;advantage;Vorteile
 die;Struktur;structure;Strukturen
@@ -260,13 +260,13 @@ das;Risiko;risk;Risiken
 die;Wahl;choice, election;Wahlen
 die;Wirkung;effect;Wirkungen
 der;Brief;letter;Briefe
-die;Gr��e;size, height;Gr��en
+die;Größe;size, height;Größen
 die;Medien;media;
-die;Macht;power, strength;M�chte
+die;Macht;power, strength;Mächte
 die;Untersuchung;examination, investigation;Untersuchungen
-die;Ver�nderung;change;Ver�nderungen
+die;Veränderung;change;Veränderungen
 die;Daten;data;
-der;Einfluss;influence;Einfl�sse
+der;Einfluss;influence;Einflüsse
 die;Methode;method;Methoden
 die;Organisation;organization;Organisationen
 die;Liebe;love;Lieben
@@ -281,34 +281,34 @@ der;Versuch;attempt, experiment;Versuche
 das;Schweigen;silence;
 die;Krankheit;illness, disease;Krankheiten
 die;Schwierigkeit;difficulty;Schwierigkeiten
-die;T�tigkeit;activity;T�tigkeiten
+die;Tätigkeit;activity;Tätigkeiten
 die;Voraussetzung;condition, requirement;Voraussetzungen
-der;Kampf;fight, struggle;K�mpfe
-der;K�nstler;artist;K�nstler
+der;Kampf;fight, struggle;Kämpfe
+der;Künstler;artist;Künstler
 die;Region;region;Regionen
-der;Eindruck;impression;Eindr�cke
+der;Eindruck;impression;Eindrücke
 die;Reaktion;reaction;Reaktionen
-der;Beitrag;contribution;Beitr�ge
+der;Beitrag;contribution;Beiträge
 das;Konzept;draft, plan;Konzepte
 die;Linie;line;Linien
-der;Mund;mouth;M�nder
-der;Wunsch;wish;W�nsche
+der;Mund;mouth;Münder
+der;Wunsch;wish;Wünsche
 der;Artikel;article;Artikel
-der;Gegensatz;opposite, contrast;Gegens�tze
+der;Gegensatz;opposite, contrast;Gegensätze
 das;Kapitel;chapter;Kapitel
 die;Literatur;literature;Literaturen
-der;R�cken;back;R�cken
+der;Rücken;back;Rücken
 die;Zelle;cell;Zellen
 die;Aussage;statement;Aussagen
-der;B�rger;citizen;B�rger
+der;Bürger;citizen;Bürger
 der;Himmel;sky, heaven;Himmel
 der;Inhalt;contents, plot;Inhalte
-die;Wand;wall;W�nde
+die;Wand;wall;Wände
 die;Bibliothek;library;Bibliotheken
 die;Farbe;color;Farben
 der/die;Jugendliche;adolescent;Jugendliche
-das;Ma�;measure;Ma�e
-der;Ansatz;approach, attempt;Ans�tze
+das;Maß;measure;Maße
+der;Ansatz;approach, attempt;Ansätze
 der;Aspekt;aspect;Aspekte
 das;Bein;leg;Beine
 die;Erinnerung;memory;Erinnerungen
@@ -317,36 +317,36 @@ der;Kurs;course, exchange rate;Kurse
 das;Papier;paper;Papiere
 die;Sekunde;second;Sekunden
 die;Sonne;sun;
-der;Umstand;circumstance;Umst�nde
+der;Umstand;circumstance;Umstände
 die;Wissenschaft;science;Wissenschaften
-der;Garten;garden;G�rten
-die;K�che;kitchen, cuisine;K�chen
+der;Garten;garden;Gärten
+die;Küche;kitchen, cuisine;Küchen
 die;Wirklichkeit;reality;Wirklichkeiten
 der;Druck;pressure, printing;Drucke
 das;Essen;food, meal;Essen
 die;Grundlage;basis;Grundlagen
-der;Zustand;condition, state;Zust�nde
-die;H�lfte;half;H�lften
+der;Zustand;condition, state;Zustände
+die;Hälfte;half;Hälften
 das;Meer;sea, ocean;Meere
 der;Dienst;service, duty;Dienste
-der;Gegenstand;object;Gegenst�nde
-der;Plan;plan;Pl�ne
+der;Gegenstand;object;Gegenstände
+der;Plan;plan;Pläne
 der;Zeitpunkt;moment, point in time;Zeitpunkte
-der;Auftrag;instructions, order, job;Auftr�ge
-der;Baum;tree;B�ume
+der;Auftrag;instructions, order, job;Aufträge
+der;Baum;tree;Bäume
 die;Freude;joy;Freuden
 die;Gemeinde;community, municipality;Gemeinden
 der;Hinweis;hint;Hinweise
 das;Netz;net, network;Netze
 die;Position;position;Positionen
-der;Schluss;end, conclusion;Schl�sse
+der;Schluss;end, conclusion;Schlüsse
 die;Bundesrepublik;Federal Republic;Bundesrepubliken
 die;Forschung;research;Forschungen
-das;Glas;glass;Gl�ser
-die;Haut;skin;H�ute
+das;Glas;glass;Gläser
+die;Haut;skin;Häute
 die;Praxis;practice, doctor's office;Praxen
-der;Wald;forest, woods;W�lder
-der;Ausdruck;term, expression;Ausdr�cke
+der;Wald;forest, woods;Wälder
+der;Ausdruck;term, expression;Ausdrücke
 der;Finger;finger;Finger
 die;Freundin;friend;Freundinnen
 der;Roman;novel;Romane
@@ -363,38 +363,38 @@ der;Titel;title;Titel
 der;Verein;association, club;Vereine
 das;Fernsehen;television;
 die;Schulter;shoulder;Schultern
-die;Unterst�tzung;support;
+die;Unterstützung;support;
 das;Zeichen;sign;Zeichen
 das;Material;material;Materialien
 die;Produktion;production;Produktionen
 der;Rest;rest, remains;Reste
 die;Ruhe;silence, peace;
-der;Schaden;damage;Sch�den
+der;Schaden;damage;Schäden
 der;Soldat;soldier;Soldaten
 die;Sorge;worry;Sorgen
 die;Tatsache;fact;Tatsachen
 die;Umgebung;surroundings;Umgebungen
-das;Volk;people;V�lker
+das;Volk;people;Völker
 der;Wagen;car, carriage;Wagen
 der;Wind;wind;Winde
 der;Zweck;purpose;Zwecke
 der;Angriff;attack;Angriffe
-der;Antrag;application;Antr�ge
+der;Antrag;application;Anträge
 der/das;Grad;degree;Grade
 der;Job;job;Jobs
-die;�ffentlichkeit;public;
+die;Öffentlichkeit;public;
 der;Schutz;protection;Schutze
 der;Anteil;share, portion;Anteile
-der/die;Besch�ftigte;employee;Besch�ftigte
+der/die;Beschäftigte;employee;Beschäftigte
 der;Besuch;visit;Besuche
 die;Energie;energy;Energien
-die;Erkl�rung;explanation;Erkl�rungen
-der;Gang;corridor, aisle, course;G�nge
-der;Lauf;course, running;L�ufe
+die;Erklärung;explanation;Erklärungen
+der;Gang;corridor, aisle, course;Gänge
+der;Lauf;course, running;Läufe
 der;Unterricht;instruction, classes;Unterrichte
 das;Zentrum;center;Zentren
-das;Amt;office, department, function;�mter
-der;Anschlag;attack;Anschl�ge
+das;Amt;office, department, function;Ämter
+der;Anschlag;attack;Anschläge
 das;Ausland;foreign countries;
 die;Behandlung;treatment;Behandlungen
 die;Einrichtung;institution, furnishings;Einrichtungen
@@ -423,44 +423,44 @@ die;Kontrolle;inspection;Kontrollen
 das;Objekt;object;Objekte
 das;Opfer;sacrifice, victim;Opfer
 der;Sprecher;speaker;Sprecher
-der;Arbeitsplatz;workplace, job;Arbeitspl�tze
+der;Arbeitsplatz;workplace, job;Arbeitsplätze
 die;Aufnahme;reception, recording, snapshot;Aufnahmen
-die;F�higkeit;ability, capability;F�higkeiten
+die;Fähigkeit;ability, capability;Fähigkeiten
 die;Karte;card, ticket, menu;Karten
 der;Urlaub;vacation, holiday;Urlaube
 die;Verantwortung;responsibility;Verantwortungen
 die;Wahrheit;truth;Wahrheiten
-das;Geb�ude;building;Geb�ude
+das;Gebäude;building;Gebäude
 der;Gesellschafter;associate, shareholder;Gesellschafter
 das;Jahrzehnt;decade;Jahrzehnte
 der;Norden/Nord;north;
 das;Ohr;ear;Ohren
-die;Pr�fung;examination, test;Pr�fungen
+die;Prüfung;examination, test;Prüfungen
 die;Regelung;regulation, settlement;Regelungen
 das;Schiff;ship;Schiffe
 die;Ausstellung;exhibition;Ausstellungen
-der;Bezug;reference, cover;Bez�ge
+der;Bezug;reference, cover;Bezüge
 die;Bitte;request;Bitten
 die;Hoffnung;hope;Hoffnungen
-der;Band;volume, tome;B�nder
-die;Band;band (musical);B�nder
-das;Band;ribbon, tape;B�nder
+der;Band;volume, tome;Bänder
+die;Band;band (musical);Bänder
+das;Band;ribbon, tape;Bänder
 der;Bericht;report;Berichte
 die;Einstellung;attitude, employment;Einstellungen
 das;Gericht;court, dish;Gerichte
 der;Gewinn;profit;Gewinne
-der;K�nig;king;K�nige
+der;König;king;Könige
 der;Sieg;victory;Siege
 die;Tat;deed;Taten
-der;Traum;dream;Tr�ume
+der;Traum;dream;Träume
 die;Union;union;Unionen
 der;Besucher;visitor;Besucher
-der;Bund;association, alliance;B�nde
+der;Bund;association, alliance;Bünde
 der;Direktor;director;Direktoren
 die;Geographie;geography;Geographien
-der;Hintergrund;background;Hintergr�nde
-die;Qualit�t;quality;Qualit�ten
-der;Rand;edge;R�nder
+der;Hintergrund;background;Hintergründe
+die;Qualität;quality;Qualitäten
+der;Rand;edge;Ränder
 die;Vergangenheit;past;
 der;Abschnitt;portion, section;Abschnitte
 der;Bauer;farmer;Bauern
@@ -474,30 +474,30 @@ die;Insel;island;Inseln
 das;Instrument;instrument;Instrumente
 die;Nachricht;news, message;Nachrichten
 die;Pflanzen;plant;
-die;St�rung;disturbance, interruption;St�rungen
+die;Störung;disturbance, interruption;Störungen
 der;Vertreter;representative;Vertreter
-der;Vorschlag;suggestion, proposal;Vorschl�ge
+der;Vorschlag;suggestion, proposal;Vorschläge
 der;Zentimeter;centimeter;Zentimeter
-der;Abstand;distance;Abst�nde
+der;Abstand;distance;Abstände
 die;Bildung;education;Bildungen
 die;Eigenschaft;quality;Eigenschaften
 die;Generation;generation;Generationen
 der;Leiter;leader;Leitern
 die;Leiter;ladder;Leitern
-der;Abschluss;end, conclusion;Abschl�sse
-das;Blatt;sheet, leaf;Bl�tter
+der;Abschluss;end, conclusion;Abschlüsse
+das;Blatt;sheet, leaf;Blätter
 der;Geist;mind, spirit;Geister
 das;Interview;interview;Interviews
 das;Semester;semester;
-der;Stand;stand, stage;St�nde
+der;Stand;stand, stage;Stände
 die;Tradition;tradition;Traditionen
 die;Anlage;sport complex, investment, attachment;Anlagen
-die;Beh�rde;department, authorities;Beh�rden
-die;B�hne;stage;B�hnen
+die;Behörde;department, authorities;Behörden
+die;Bühne;stage;Bühnen
 die;Dame;lady;Damen
 das;Element;element;Elemente
 die;Gelegenheit;opportunity;Gelegenheiten
-der;Hof;courtyard, yard;H�fe
+der;Hof;courtyard, yard;Höfe
 die;Kommunikation;communication;Kommunikationen
 die;Mama;mamma;Mamas
 das;Museum;museum;Museen
@@ -507,12 +507,12 @@ die;Ecke;corner;Ecken
 der;Herbst;autumn;Herbste
 das;Kriterium;criterion;Kriterien
 der;Terror;terror;
-das;Verst�ndnis;understanding;Verst�ndnisse
+das;Verständnis;understanding;Verständnisse
 die;Zusammenarbeit;cooperation;Zusammenarbeiten
 die;Ansicht;opinion, view;Ansichten
 die;Auseinandersetzung;argument, quarrel;Auseinandersetzungen
 die;Bahn;train, railway, way;Bahnen
-die;B�rgermeister;mayor;B�rgermeister
+die;Bürgermeister;mayor;Bürgermeister
 die;Definition;definition;Definitionen
 das;Flugzeug;airplane;Flugzeuge
 das;Foto;photograph;Fotos
@@ -522,20 +522,20 @@ die;Phase;phase;Phasen
 der;Stein;rock, stone;Steine
 der;Ton;sound, tone, clay;Tone
 die;Veranstaltung;event;Veranstaltungen
-die;�nderung;change;�nderungen
+die;Änderung;change;Änderungen
 die;Ausnahme;exception;Ausnahmen
 der;Bau;construction, building;Bauten
 das;Hobby;hobby;Hobbys
 der;Kaffee;coffee;Kaffees
 der;Konflikt;conflict;Konflikte
 die;Leitung;management, leadership, pipe;Leitungen
-die;Lust;desire;L�ste
+die;Lust;desire;Lüste
 die;Mehrheit;majority;Mehrheiten
 der;Nachmittag;afternoon;Nachmittage
 die;Rechnung;bill, calculation;Rechnungen
-das;Schloss;lock, castle;Schl�sser
-die;Aktivit�t;activity;Aktivit�ten
-das;Dach;roof;D�cher
+das;Schloss;lock, castle;Schlösser
+die;Aktivität;activity;Aktivitäten
+das;Dach;roof;Dächer
 das;Fest;festival, celebration;Feste
 der;Kandidat;candidate;Kandidaten
 die;Landschaft;landscape, countryside;Landschaften
@@ -545,20 +545,20 @@ die;Runde;round;Runden
 der;Stern;star;Sterne
 der;Experte;expert;Experten
 die;Gestalt;shape, form, figure;Gestalten
-der;Laden;shop;L�den
+der;Laden;shop;Läden
 der;Meister;master;Meister
 die;Stellung;position, standing;Stellungen
-der;Zugang;access;Zug�nge
+der;Zugang;access;Zugänge
 die;Branche;sector, line of business;Branchen
 die;Figur;figure;Figuren
 der;Frieden;peace;
 die;Industrie;industry;Industrien
-der;Umgang;dealings, contact;Umg�nge
-der;Vorgang;occurrence;Vorg�nge
+der;Umgang;dealings, contact;Umgänge
+der;Vorgang;occurrence;Vorgänge
 das;Wachstum;growth;
-das;B�ro;office;B�ros
+das;Büro;office;Büros
 die;Darstellung;presentation, description;Darstellungen
-der;Fu�ball;soccer, football;Fu�b�lle
+der;Fußball;soccer, football;Fußbälle
 die;Gewalt;violence, force;Gewalten
 die;Institution;institution;Institutionen
 die;Katze;cat;Katzen
@@ -566,7 +566,7 @@ der;Konzern;business group;Konzerne
 das;Lager;camp, storeroom;Lager
 die;Lehre;apprenticeship, lesson, doctrine;Lehren
 das;Pferd;horse;Pferde
-der;Rat;advice;R�te
+der;Rat;advice;Räte
 der;Schatten;shadow, shade;Schatten
 die;Spitze;point, top, peak;Spitzen
 die;Strecke;distance, route;Strecken
@@ -578,21 +578,21 @@ das;Feuer;fire;Feuer
 das;Gymnasium;secondary school;Gymnasien
 die;Konsequenz;consequence;Konsequenzen
 die;Nase;nose;Nasen
-der;Stuhl;chair;St�hle
-der;S�den/S�d;south;
+der;Stuhl;chair;Stühle
+der;Süden/Süd;south;
 das;Tor;gate, goal;Tore
-der;Verband;association, bandage;Verb�nde
+der;Verband;association, bandage;Verbände
 die;Aktie;share;Aktien
 die;Aktion;action, campaign;Aktionen
-der;Anlass;occasion, cause;Anl�sse
+der;Anlass;occasion, cause;Anlässe
 die;Ausgabe;distribution, edition, expenses;Ausgaben
-der;Ausl�nder;foreigner;Ausl�nder
-das;Bundesland;state, province;Bundesl�nder
+der;Ausländer;foreigner;Ausländer
+das;Bundesland;state, province;Bundesländer
 der;Club;club;Clubs
-der;Fluss;river;Fl�sse
-die;F�hrung;management, leadership, command;F�hrungen
+der;Fluss;river;Flüsse
+die;Führung;management, leadership, command;Führungen
 die;Geschwindigkeit;speed;Geschwindigkeiten
-das;Gut;estate, goods;G�ter
+das;Gut;estate, goods;Güter
 die;Medizin;medicine;Medizinen
 der;Nachbar;neighbor;Nachbarn
 die;Software;software;Softwares
@@ -602,17 +602,17 @@ der;Terrorismus;terrorism;
 der;Trainer;coach;Trainer
 der;Zweifel;doubt;Zweifel
 die;Anforderung;request, demand;Anforderungen
-das;Bad;bath, bathroom, spa;B�der
+das;Bad;bath, bathroom, spa;Bäder
 die;Belastung;load, strain;Belastungen
 der;Bus;bus;Busse
 der;Effekt;effect;Effekte
 die;Messe;trade fair, mass;Messen
-der;Umfang;circumference, size, extent;Umf�nge
+der;Umfang;circumference, size, extent;Umfänge
 die;Vorschrift;instruction, regulation;Vorschriften
-das;Fahrrad;bicycle;Fahrr�der
+das;Fahrrad;bicycle;Fahrräder
 die;Kommission;commission, committee;Kommissionen
-das;Krankenhaus;hospital;Krankenh�user
-der;Mangel;lack, shortage, defect;M�ngel
+das;Krankenhaus;hospital;Krankenhäuser
+der;Mangel;lack, shortage, defect;Mängel
 der;Richter;judge;Richter
 der;Terrorist;terrorist;Terroristen
 das;Urteil;sentence, judgement;Urteile
@@ -631,7 +631,7 @@ der;Wettbewerb;competition;Wettbewerbe
 das;Wetter;weather;Wetter
 die;Alternative;alternative;Alternativen
 die;Auswirkung;effect;Auswirkungen
-das;Bed�rfnis;need;Bed�rfnisse
+das;Bedürfnis;need;Bedürfnisse
 die;Haltung;posture, attitude;Haltungen
 der;Leser;reader;Leser
 die;Tante;aunt;Tanten
@@ -639,14 +639,14 @@ die;Temperatur;temperature;Temperaturen
 die;Waffe;weapon;Waffen
 die;Ware;goods;Waren
 die;Ahnung;suspicion, idea;Ahnungen
-die;Brust;breast, chest;Br�ste
-die;Einf�hrung;introduction;Einf�hrungen
+die;Brust;breast, chest;Brüste
+die;Einführung;introduction;Einführungen
 die;Fahrt;drive, trip;Fahrten
-die;F�rderung;support, sponsorship;F�rderungen
+die;Förderung;support, sponsorship;Förderungen
 das;Kleid;dress;Kleider
 die;Koalition;coalition;Koalitionen
-die;L�nge;length;L�ngen
-das;Loch;hole;L�cher
+die;Länge;length;Längen
+das;Loch;hole;Löcher
 der;Manager;manager;Manager
 die;Quelle;source, spring;Quellen
 der;Regen;rain;
@@ -656,10 +656,10 @@ die;Summe;sum;Summen
 der;Termin;appointment, date;Termine
 der;Test;test;Tests
 der;Tourist;tourist;Touristen
-der;Umsatz;turnover, sales;Ums�tze
+der;Umsatz;turnover, sales;Umsätze
 das;Vertrauen;trust, faith;
 die;Verwendung;use;Verwendungen
-der;Vorwurf;reproach, accusation;Vorw�rfe
+der;Vorwurf;reproach, accusation;Vorwürfe
 der;Wissenschaftler;scholar, scientist;Wissenschaftler
 das;Bier;beer;Biere
 die;Bundesregierung;federal government;Bundesregierungen
@@ -672,8 +672,8 @@ das;Merkmal;feature;Merkmale
 das;Parlament;parliament;Parlamente
 die;Pause;pause, break;Pausen
 die;Perspektive;perspective, prospects;Perspektiven
-das;Ph�nomen;phenomenon;Ph�nomene
-die;Realit�t;reality;Realit�ten
+das;Phänomen;phenomenon;Phänomene
+die;Realität;reality;Realitäten
 die;Suche;search;Suchen
 der;Weltkrieg;world war;Weltkriege
 der;Arbeitgeber;employer;Arbeitgeber
@@ -686,8 +686,8 @@ die;Formel;formula;Formeln
 der;Fortschritt;progress;Fortschritte
 der;Geburtstag;birthday;Geburtstage
 die;Gegenwart;present;
-die;Hauptstadt;capital city;Hauptst�dte
-die;M�he;effort, trouble;M�hen
+die;Hauptstadt;capital city;Hauptstädte
+die;Mühe;effort, trouble;Mühen
 die;Nachfrage;demand;Nachfragen
 die;Pflicht;duty;Pflichten
 der;Studiengang;course of study;
@@ -697,15 +697,15 @@ die;Debatte;debate;Debatten
 die;Fremdsprache;foreign language;Fremdsprachen
 der;Gegner;opponent, competitor, enemy;Gegner
 die;Hinsicht;respect;Hinsichten
-der;K�ufer;buyer;K�ufer
+der;Käufer;buyer;Käufer
 das;Kilogramm;kilogram;Kilogramme
 die;Verwaltung;administration;Verwaltungen
 die;Weile;while;Weilen
 die;Adresse;address;Adressen
-der;Betrag;amount;Betr�ge
-der;Hals;neck, throat;H�lse
+der;Betrag;amount;Beträge
+der;Hals;neck, throat;Hälse
 die;Heimat;home, homeland;Heimaten
-der;Kauf;purchase;K�ufe
+der;Kauf;purchase;Käufe
 das;Kino;cinema, movie theater;Kinos
 die;Konkurrenz;competition;Konkurrenzen
 die;Mathematik;mathematics;
@@ -713,7 +713,7 @@ die;Schicht;layer, class;Schichten
 der;Schwerpunkt;main emphasis, center of gravity;Schwerpunkte
 der;Streit;argument, fight;Streite
 die;Verhandlung;negotiation;Verhandlungen
-der;Ablauf;expiry, action;Abl�ufe
+der;Ablauf;expiry, action;Abläufe
 der;Arbeitnehmer;employee;Arbeitnehmer
 das;Drittel;third;Drittel
 der/die;Erwachsene;adult, grown-up;Erwachsene
@@ -721,7 +721,7 @@ der;Fahrer;driver;Fahrer
 das;Gegenteil;opposite;Gegenteile
 die;Gemeinschaft;community;Gemeinschaften
 die;Gewerkschaft;trade union;Gewerkschaften
-der;Handel;trade;H�ndel
+der;Handel;trade;Händel
 der;Kanzler;chancellor;Kanzler
 das;Management;management;Managements
 der;Millimeter;millimeter;Millimeter
@@ -733,31 +733,31 @@ der;Start;start, take-off, launch;Starts
 die;Tabelle;table, chart;Tabellen
 der;Tourismus;tourism;
 der;Verdacht;suspicion;Verdachte
-der;Vogel;bird;V�gel
-der;Widerstand;resistance, opposition;Widerst�nde
+der;Vogel;bird;Vögel
+der;Widerstand;resistance, opposition;Widerstände
 der/die;Beamte;official, civil servant;Beamte
 die;Investition;investment;Investitionen
 die;Planung;planning, plan;Planungen
 der;Polizist;policeman;Polizisten
 der;Schriftsteller;writer;Schriftsteller
-die;St�rke;strength;St�rken
+die;Stärke;strength;Stärken
 die;Steuer;tax;Steuern
 das;Steuer;steering wheel, helm;Steuern
 die;Therapie;therapy;Therapien
-die;�berlegung;thought, thinking;�berlegungen
+die;Überlegung;thought, thinking;Überlegungen
 der;Verkehr;traffic;Verkehre
 die;Verletzung;injury;Verletzungen
 der/die;Abgeordnete;member of the parliament, congress;
-der;Anschluss;connection;Anschl�sse
+der;Anschluss;connection;Anschlüsse
 die;Armee;army;Armeen
-die;Atmosph�re;atmosphere;Atmosph�ren
+die;Atmosphäre;atmosphere;Atmosphären
 die;Auswahl;choice, selection;Auswahlen
 die;Beschreibung;description;Beschreibungen
 das;Boot;boat;Boote
 die;Einnahmen;income, receipts, revenue;
 die;Erkrankung;illness, disease;Erkrankungen
-die;Fl�che;area, surface;Fl�chen
-der;Flughafen;airport;Flugh�fen
+die;Fläche;area, surface;Flächen
+der;Flughafen;airport;Flughäfen
 das;Gehirn;brain;Gehirne
 die;Gesundheit;health;
 der;Park;park;Parks
@@ -770,14 +770,14 @@ die;Strategie;strategy;Strategien
 der;Wechsel;change;Wechsel
 der;Alltag;workday, daily routine;
 der;Auftritt;appearance, entrance;Auftritte
-der;Bahnhof;railway station;Bahnh�fe
+der;Bahnhof;railway station;Bahnhöfe
 der;Bundeskanzler;federal chancellor;Bundeskanzler
 die;Demokratie;democracy;Demokratien
 die;Erwartung;expectation;Erwartungen
 das;Fahrzeug;vehicle;Fahrzeuge
 die;Fotografie;photography;Fotografien
 der;Hersteller;manufacturer, producer;Hersteller
-das;Holz;wood;H�lzer
+das;Holz;wood;Hölzer
 das;Knie;knee;Knie
 die;Kombination;combination;Kombinationen
 die;Liste;list;Listen
@@ -798,24 +798,24 @@ die;Kasse;cash register, checkout;Kassen
 die;Kategorie;category;Kategorien
 der;Organismus;organism;Organismen
 das;Radio;radio;Radios
-der;Unfall;accident;Unf�lle
+der;Unfall;accident;Unfälle
 die;Verbesserung;improvement;Verbesserungen
 die;Verpflichtung;commitment, obligation;Verpflichtungen
 das;Abitur;school leaving exam, A levels;Abiture
 der;Bedarf;need, demand;Bedarfe
 die;Beratung;advice, discussion, consultation;Beratungen
-die;Besch�ftigung;employment, job, activity, occupation;Besch�ftigungen
+die;Beschäftigung;employment, job, activity, occupation;Beschäftigungen
 die;Betrachtung;contemplation, examination;Betrachtungen
-das;Fr�hjahr;spring;Fr�hjahre
+das;Frühjahr;spring;Frühjahre
 das;Gewicht;weight;Gewichte
 der;Journalist;journalist;Journalisten
 die;Kompetenz;competence, authority;Kompetenzen
 das;Lebensmittel;food;Lebensmittel
 der;Mittelpunkt;midpoint, center of focus;Mittelpunkte
 der;Spiegel;mirror;Spiegel
-der;Strand;beach;Str�nde
+der;Strand;beach;Strände
 die;Treppe;stairs;Treppen
-das;Verm�gen;assets, fortune, ability;Verm�gen
+das;Vermögen;assets, fortune, ability;Vermögen
 das;Wesen;being, creature, nature;Wesen
 die;Arbeitslosigkeit;unemployment;
 die;Beobachtung;observation;Beobachtungen
@@ -823,12 +823,12 @@ der;Bestandteil;component;Bestandteile
 die;Beteiligung;participation;Beteiligungen
 die;Bewertung;assessment;Bewertungen
 die;Bezeichnung;name, term;Bezeichnungen
-die;Br�cke;bridge;Br�cken
+die;Brücke;bridge;Brücken
 die;CD;CD;CDs
-der;Gebrauch;use;Gebr�uche
-der;Gesch�ftsf�hrer;manager;Gesch�ftsf�hrer
+der;Gebrauch;use;Gebräuche
+der;Geschäftsführer;manager;Geschäftsführer
 die;Lippe;lip;Lippen
-der;Ministerpr�sident;governor, minister, president;Ministerpr�sidenten
+der;Ministerpräsident;governor, minister, president;Ministerpräsidenten
 der;Nutzen;benefit, profit, use;
 der;Ruf;reputation, call;Rufe
 das;Signal;signal;Signale
@@ -839,16 +839,16 @@ die;Taste;key, button;Tasten
 das;Teilchen;particle;Teilchen
 die;Versicherung;insurance, assurance;Versicherungen
 die;Vorbereitung;preparation;Vorbereitungen
-der;Vordergrund;foreground;Vordergr�nde
-der;Anwalt;attorney, lawyer;Anw�lte
+der;Vordergrund;foreground;Vordergründe
+der;Anwalt;attorney, lawyer;Anwälte
 das;Experiment;experiment;Experimente
 der;Glauben;faith, belief;
-der;Grundsatz;principle;Grunds�tze
+der;Grundsatz;principle;Grundsätze
 die;Komponente;component;Komponenten
-die;Oberfl�che;surface;Oberfl�chen
+die;Oberfläche;surface;Oberflächen
 das;Reich;empire, kingdom;Reiche
 das;Rennen;race;Rennen
-der;Schlag;blow;Schl�ge
+der;Schlag;blow;Schläge
 der;Schuh;shoe;Schuhe
 das;Seminar;seminar;Seminare
 die;Sendung;broadcast;Sendungen
@@ -857,28 +857,28 @@ die;Technologie;technology;Technologien
 die;Truppe;troops, unit;Truppen
 das;Umfeld;milieu;Umfelder
 der;Verbraucher;consumer;Verbraucher
-der;Verkauf;sale;Verk�ufe
+der;Verkauf;sale;Verkäufe
 das;Viertel;quarter, district;Viertel
 das;Vorjahr;previous year;Vorjahre
 die;Bilanz;balance sheet;Bilanzen
 das;Erlebnis;experience;Erlebnisse
-das;Grundst�ck;plot of land;Grundst�cke
-die;Identit�t;identity;Identit�ten
+das;Grundstück;plot of land;Grundstücke
+die;Identität;identity;Identitäten
 die;Kamera;camera;Kameras
-der;Kanal;canal, channel;Kan�le
+der;Kanal;canal, channel;Kanäle
 die;Karriere;career;Karrieren
 der;Kredit;credit;Kredite
 das;Quartal;quarter of the year;Quartale
-das;Rad;wheel;R�der
+das;Rad;wheel;Räder
 der;Rechner;computer, calculator;Rechner
-der;Schlaf;sleep;Schl�fe
+der;Schlaf;sleep;Schläfe
 der;Sender;broadcasting station;Sender
-das;Tal;valley;T�ler
+das;Tal;valley;Täler
 die;Tiefe;depth;Tiefen
 das;TV;TV;
-der;Verlauf;course;Verl�ufe
+der;Verlauf;course;Verläufe
 die;Zigarette;cigarette;Zigaretten
-der;Aktion�r;shareholder;Aktion�re
+der;Aktionär;shareholder;Aktionäre
 der;Atem;breath;
 die;Auffassung;point of view;Auffassungen
 der;Bewohner;inhabitant, occupant;Bewohner
@@ -896,20 +896,20 @@ die;Reform;reform;Reformen
 das;Restaurant;restaurant;Restaurants
 der;Schauspieler;actor;Schauspieler
 der;Schnee;snow;
-die;Sch�lerin;schoolgirl;Sch�lerinnen
+die;Schülerin;schoolgirl;Schülerinnen
 der;Service;service;Services
 die;Sitzung;meeting, session;Sitzungen
-der;Sturm;storm;St�rme
-die;Tr�ne;tear;Tr�nen
+der;Sturm;storm;Stürme
+die;Träne;tear;Tränen
 die;Trauer;grief;
-der;Vorstand;board, chairperson;Vorst�nde
-der;Zufall;chance, coincidence;Zuf�lle
+der;Vorstand;board, chairperson;Vorstände
+der;Zufall;chance, coincidence;Zufälle
 die;Zustimmung;approval;Zustimmungen
-der/die;Angeh�rige;member, relative;Angeh�rige
+der/die;Angehörige;member, relative;Angehörige
 die;Annahme;acceptance, assumption;Annahmen
 das;Argument;argument;Argumente
 das;Arzneimittel;medicine;Arzneimittel
-der;Au�enminister;foreign minister;Au�enminister
+der;Außenminister;foreign minister;Außenminister
 der;Benutzer;user;Benutzer
 der;Bescheid;information, reply;Bescheide
 die;Blume;flower;Blumen
@@ -918,7 +918,7 @@ die;Disziplin;discipline;Disziplinen
 die;Existenz;existence;Existenzen
 die;Fraktion;parliamentary party;Fraktionen
 das;Grundgesetz;basic law;Grundgesetze
-der;H�ndler;trader, dealer, retailer;H�ndler
+der;Händler;trader, dealer, retailer;Händler
 der;Hinblick;view;
 das;Individuum;individual;Individuen
 die;Katastrophe;catastrophe;Katastrophen
@@ -932,23 +932,23 @@ die;Station;station;Stationen
 die;Tendenz;trend;Tendenzen
 das;Training;training;Trainings
 die;Umsetzung;transfer, implementation;Umsetzungen
-der;Verk�ufer;salesman;Verk�ufer
+der;Verkäufer;salesman;Verkäufer
 die;Versorgung;supply, care;Versorgungen
 der;Wandel;change;
 das;Wunder;miracle;Wunder
 die;Angelegenheit;matter, affair;Angelegenheiten
-die;Auskunft;information;Ausk�nfte
-das;Ausma�;extent, size;Ausma�e
-die;Begr�ndung;explanation, justification;Begr�ndungen
+die;Auskunft;information;Auskünfte
+das;Ausmaß;extent, size;Ausmaße
+die;Begründung;explanation, justification;Begründungen
 das;Engagement;commitment;Engagements
 die;Entfernung;distance;Entfernungen
 der;Fleck;stain;Flecke
 die;Handlung;action, plot;Handlungen
 das;Immunsystem;immune system;Immunsysteme
 der;Koffer;suitcase;Koffer
-die;Not;need, trouble;N�te
-die;Pers�nlichkeit;personality, celebrity;Pers�nlichkeiten
-der;Schl�ssel;key;Schl�ssel
+die;Not;need, trouble;Nöte
+die;Persönlichkeit;personality, celebrity;Persönlichkeiten
+der;Schlüssel;key;Schlüssel
 der;Schreibtisch;desk;Schreibtische
 die;Seele;soul, mind;Seelen
 der;Unternehmer;employer;Unternehmer
@@ -957,22 +957,22 @@ die;Vereinbarung;agreement;Vereinbarungen
 das;Video;video;Videos
 die;Wahrnehmung;perception;Wahrnehmungen
 der/die;Angestellte;employee;Angestellte
-die;�u�erung;comment;�u�erungen
+die;Äußerung;comment;Äußerungen
 die;Begegnung;encounter, meeting;Begegnungen
-das;Caf�;coffee house;Caf�s
+das;Café;coffee house;Cafés
 die;Datei;data file;Dateien
 die;Dienstleistung;service;Dienstleistungen
-die;Erz�hlung;narration, story;Erz�hlungen
+die;Erzählung;narration, story;Erzählungen
 die;Ferne;distance;Fernen
 das;Gedicht;poem;Gedichte
-die;Gr�ndung;foundation;Gr�ndungen
+die;Gründung;foundation;Gründungen
 der;Keller;cellar;Keller
 das;Konto;account;Konten
 die;Operation;operation;Operationen
 die;Qualifikation;qualification;Qualifikationen
 die;Sammlung;collection;Sammlungen
 die;Tonne;ton, barrel;Tonnen
-der;Tr�ger;holder, responsible body;Tr�ger
+der;Träger;holder, responsible body;Träger
 der;Trend;trend;Trends
 die;Variante;variant, variation;Varianten
 der/die;Verwandte;relative;Verwandte
@@ -980,13 +980,13 @@ die;Vielfalt;diversity;
 die;Vielzahl;multitude;
 die;Zahlung;payment;Zahlungen
 der;Arbeiter;worker;Arbeiter
-der;Aufwand;expense, effort;Aufw�nde
+der;Aufwand;expense, effort;Aufwände
 die;Aufwendungen;expenditure;
-der;Bauch;belly;B�uche
+der;Bauch;belly;Bäuche
 die;Berechnung;calculation;Berechnungen
 der;Bestandteil;continuation, stock, supply;Bestandteile
-das;Entwicklungsland;developing nation;Entwicklungsl�nder
-der;Entwurf;sketch, design, draft;Entw�rfe
+das;Entwicklungsland;developing nation;Entwicklungsländer
+der;Entwurf;sketch, design, draft;Entwürfe
 die;Fachhochschule;technical college;Fachhochschulen
 der;Fernseher;television;Fernseher
 die;Finanzierung;financing;Finanzierungen
@@ -995,7 +995,7 @@ der;Impuls;stimulus, impulse;Impulse
 das;Kapital;capital;
 der;Kern;seed, core, nucleus;Kerne
 der;Motor;motor, engine;Motoren
-der;Rang;standing, status;R�nge
+der;Rang;standing, status;Ränge
 der;Regisseur;director;Regisseure
 die;Republik;republic;Republiken
 das;Salz;salt;
@@ -1003,53 +1003,53 @@ der;Stil;style;Stile
 die;Vermittlung;negotiation, placement;Vermittlungen
 der;Wahlkampf;election campaign;Wahlkampfen
 die;Wolke;cloud;Wolken
-der;Zahn;tooth;Z�hne
+der;Zahn;tooth;Zähne
 die;Anstrengung;effort;Anstrengungen
 die;Behinderung;obstruction, handicap;Behinderungen
-die;Ber�cksichtigung;consideration;Ber�cksichtigungen
+die;Berücksichtigung;consideration;Berücksichtigungen
 der;Bord;board;Borde
 der;Dichter;writer, poet;Dichter
 der;Eingriff;intervention, interference;Eingriffe
 der;Einwohner;inhabitant;Einwohner
 der;Fan;fan, supporter;Fans
-die;H�tte;hut, cabin;H�tten
+die;Hütte;hut, cabin;Hütten
 die;Kooperation;cooperation;Kooperationen
 die;Stasi;state security service;
 das;Symbol;symbol;Symbole
-der;T�ter;culprit, perpetrator;T�ter
+der;Täter;culprit, perpetrator;Täter
 die;Tour;tour, trip;Touren
 die;Trennung;separation;Trennungen
-die;�bertragung;transmission, broadcast;�bertragungen
+die;Übertragung;transmission, broadcast;Übertragungen
 die;Verfassung;constitution;Verfassungen
 die;Zeitschrift;magazine, journal;Zeitschriften
 die;Absicht;intention;Absichten
 der;Architekt;architect;Architekten
 die;Aufmerksamkeit;attention;Aufmerksamkeiten
-der;Beschluss;decision, resolution;Beschl�sse
+der;Beschluss;decision, resolution;Beschlüsse
 die;Bibel;bible;Bibeln
 die;Bindung;relationship, attachment;Bindungen
-die;B�rse;stock market;B�rsen
+die;Börse;stock market;Börsen
 das;Business;business;
 der;Ehegatte;husband;Ehegatten
-die;Einsch�tzung;opinion, assessment, evaluation;Einsch�tzungen
+die;Einschätzung;opinion, assessment, evaluation;Einschätzungen
 das;Elektron;electron;Elektronen
 die;Entstehung;origin;Entstehungen
 die;Erweiterung;expansion, extension;Erweiterungen
 der;Feind;enemy;Feinde
 die;Flucht;flight, escape;Fluchten
-der;Fl�chtling;refugee;Fl�chtlinge
+der;Flüchtling;refugee;Flüchtlinge
 das;Geschlecht;sex, gender;Geschlechter
 das;Gewissen;conscience;Gewissen
-der;Gl�ubiger;creditor, believer;Gl�ubiger
+der;Gläubiger;creditor, believer;Gläubiger
 der;Griff;handle, grip, grasp;Griffe
 der;Halt;stop, hold;Halte
 das;Hemd;shirt;Hemden
 die;Infektion;infection;Infektionen
-der;Kindergarten;nursery school;Kinderg�rten
+der;Kindergarten;nursery school;Kindergärten
 das;Klima;climate;Klimata
 der;Kontinent;continent;Kontinente
-die;K�ndigung;termination, notice of dismissal;K�ndigungen
-der;Mantel;coat;M�ntel
+die;Kündigung;termination, notice of dismissal;Kündigungen
+der;Mantel;coat;Mäntel
 das;Marketing;marketing;
 der;Mister;mister;
 der;Mut;courage;
@@ -1060,22 +1060,22 @@ das;Paket;parcel, package;Pakete
 die;Ressource;resource;Ressourcen
 die;Revolution;revolution;Revolutionen
 die;Richtlinie;guideline;Richtlinien
-die;R�ckkehr;return;
+die;Rückkehr;return;
 die;Scheibe;disc, slice, glass pane;Scheiben
 die;Stille;peace, silence;
 der;Stress;stress;Stresse
 die;These;thesis;Thesen
 der;Transport;transportation;Transporte
-der;�bergang;crossing, transition;�berg�nge
+der;Übergang;crossing, transition;Übergänge
 das;Vorbild;model, example;Vorbilder
 das;Vorgehen;action;
-der;Widerspruch;contradiction, dissent;Widerspr�che
-die;W�ste;desert;W�sten
+der;Widerspruch;contradiction, dissent;Widersprüche
+die;Wüste;desert;Wüsten
 der;Alkohol;alcohol;Alkohole
 die;Anerkennung;recognition;Anerkennungen
 der;Aufenthalt;stay, residence;Aufenthalte
 die;Aussicht;prospect, view;Aussichten
-der;Ball;ball;B�lle
+der;Ball;ball;Bälle
 die;Bemerkung;remark, comment;Bemerkungen
 der;Besitz;property, possession;Besitze
 die;Chemie;chemistry;Chemien
@@ -1085,7 +1085,7 @@ die;Frist;time period, deadline;Fristen
 das;Geschenk;gift;Geschenke
 die;Gestaltung;design, organization;Gestaltungen
 das;Heim;home;Heime
-der;H�hepunkt;high point, peak;H�hepunkte
+der;Höhepunkt;high point, peak;Höhepunkte
 der;Horizont;horizon;Horizonte
 die;Konferenz;conference;Konferenzen
 das;Kreuz;cross;Kreuze
@@ -1095,28 +1095,28 @@ die;Presse;press;Pressen
 die;Rechtsprechung;jurisdiction;Rechtsprechungen
 das;Regal;shelf;Regale
 der;Ring;ring;Ringe
-die;�bung;exercise, practice;�bungen
-der;Vortrag;lecture;Vortr�ge
+die;Übung;exercise, practice;Übungen
+der;Vortrag;lecture;Vorträge
 die;Zeile;line;Zeilen
-die;Ausf�hrung;implementation, type;Ausf�hrungen
+die;Ausführung;implementation, type;Ausführungen
 der;Besitzer;owner;Besitzer
 das;Center;center;Center
-der;Eingang;entrance;Eing�nge
+der;Eingang;entrance;Eingänge
 die;Erscheinung;phenomenon, appearance;Erscheinungen
 die;Ferien;holiday, vacation;
-der;Flug;flight;Fl�ge
+der;Flug;flight;Flüge
 die;Fragestellung;problem;
 die;Freundschaft;friendship;Freundschaften
-das;Fr�hst�ck;breakfast;Fr�hst�cke
-das;Gehalt;salary;Geh�lter
-der;Gehalt;meaning, contents;Geh�lter
+das;Frühstück;breakfast;Frühstücke
+das;Gehalt;salary;Gehälter
+der;Gehalt;meaning, contents;Gehälter
 das;Geheimnis;secret;Geheimnisse
-das;Ger�usch;sound, noise;Ger�usche
-der;Geschmack;taste;Geschm�cker
+das;Geräusch;sound, noise;Geräusche
+der;Geschmack;taste;Geschmäcker
 das;Gold;gold;
-der;Hafen;harbor;H�fen
-der;Hut;hat;H�te
-die;Hut;care;H�te
+der;Hafen;harbor;Häfen
+der;Hut;hat;Hüte
+die;Hut;care;Hüte
 die;Interpretation;interpretation;Interpretationen
 die;Klage;complaint, lawsuit;Klagen
 die;Klinik;clinic, hospital;Kliniken
@@ -1124,8 +1124,8 @@ die;Lehrerin;teacher;Lehrerinnen
 die;Marke;brand, stamp;Marken
 das;Medikament;medicine, drug;Medikamente
 die;Miete;rent;Mieten
-das;�l;oil;�le
-der;Pass;pass, passport;P�sse
+das;Öl;oil;Öle
+der;Pass;pass, passport;Pässe
 die;Phantasie;imagination, fantasy;Phantasien
 die;Prognose;prognosis;Prognosen
 das;Protein;protein;Proteine
@@ -1133,21 +1133,21 @@ das;Protokoll;minutes, record;Protokolle
 der;Schreck;fright, shock;Schrecke
 die;Serie;series;Serien
 der;Tee;tea;Tees
-der;Turm;tower;T�rme
-die;�berzeugung;conviction;�berzeugungen
+der;Turm;tower;Türme
+die;Überzeugung;conviction;Überzeugungen
 die;Vorgabe;guideline;Vorgaben
 das/die;Weihnachten;Christmas;Weihnachten
 die;Wende;change;Wenden
-die;Abh�ngigkeit;dependence;Abh�ngigkeiten
-der;Arbeitsmarkt;labor market;Arbeitsm�rkte
-der;�rger;annoyance, trouble;
+die;Abhängigkeit;dependence;Abhängigkeiten
+der;Arbeitsmarkt;labor market;Arbeitsmärkte
+der;Ärger;annoyance, trouble;
 der;Austausch;exchange;Austausche
 die;Betreuung;care;
 die;Bombe;bomb;Bomben
 der;Dialog;dialogue;Dialoge
 die/das;E-Mail;e-mail;E-Mails
 die;Entschuldigung;apology, excuse;Entschuldigungen
-die;Erh�hung;increase;Erh�hungen
+die;Erhöhung;increase;Erhöhungen
 das;Gas;gas;Gase
 das;Gen;gene;Gene
 die;Hitze;heat;
@@ -1162,9 +1162,9 @@ der;Mord;murder;Morde
 der;Pilot;pilot;Piloten
 das;Resultat;result;Resultate
 der;Riese;giant;Riesen
-der;Stock;stick, floor;St�cke
+der;Stock;stick, floor;Stöcke
 die;Strafe;punishment;Strafen
-der;�bersetzer;translator;�bersetzer
+der;Übersetzer;translator;Übersetzer
 das;Ufer;shore, bank;Ufer
 die;Umfrage;survey;Umfragen
 das;Baby;baby;Babys
@@ -1173,12 +1173,12 @@ die;Differenz;difference;Differenzen
 die;Dunkelheit;darkness;Dunkelheiten
 das;Dutzend;dozen;Dutzende
 das;Eis;ice, ice cream;Eis
-der;Empfang;reception;Empf�nge
-der;Empf�nger;recipient;Empf�nger
-die;Ern�hrung;food, diet;
+der;Empfang;reception;Empfänge
+der;Empfänger;recipient;Empfänger
+die;Ernährung;food, diet;
 der;Gesichtspunkt;point of view;Gesichtspunkte
-die;Gro�mutter;grandmother;Gro�m�tter
-die;Herkunft;origin;Herk�nfte
+die;Großmutter;grandmother;Großmütter
+die;Herkunft;origin;Herkünfte
 die;Hochzeit;wedding;Hochzeiten
 der;Hunger;hunger;
 die;Konjunktur;state of the economy;Konjunkturen
@@ -1196,16 +1196,16 @@ der;Protest;protest;Proteste
 der;Reiz;stimulus, appeal;Reize
 der;Rohstoff;raw material;Rohstoffe
 der;Sachverhalt;facts;Sachverhalte
-der;Schuss;shot;Sch�sse
+der;Schuss;shot;Schüsse
 die;Sicherung;protection, fuse;Sicherungen
 der;Sieger;winner;Sieger
 die;Statistik;statistics;Statistiken
 die;Strahlung;radiation;Strahlungen
 das;Taxi;taxi;Taxis
 das;Turnier;tournament;Turniere
-die;�bernahme;takeover;�bernahmen
+die;Übernahme;takeover;Übernahmen
 die;Verarbeitung;processing;Verarbeitungen
-die;Ver�ffentlichung;publication;Ver�ffentlichungen
+die;Veröffentlichung;publication;Veröffentlichungen
 die;Verteilung;distribution;Verteilungen
 die;Wiedervereinigung;reunification;Wiedervereinigungen
 der;Witz;joke;Witze
@@ -1214,9 +1214,9 @@ die;Benutzung;use;Benutzungen
 die;Beurteilung;judgement;Beurteilungen
 der;Bewerber;applicant;Bewerber
 das;Defizit;deficit;Defizite
-die;Einschr�nkung;restriction;Einschr�nkungen
+die;Einschränkung;restriction;Einschränkungen
 die;Ermittlung;investigation;Ermittlungen
-der;Ertrag;yield;Ertr�ge
+der;Ertrag;yield;Erträge
 der;Flur;hall, corridor;Flure
 das;Format;format;Formate
 der;Held;hero;Helden
@@ -1227,7 +1227,7 @@ die;Kette;chain;Ketten
 die;Kleidung;clothes;Kleidungen
 die;Kneipe;pub, bar;Kneipen
 der;Kritiker;critic;Kritiker
-die;K�ste;coast;K�sten
+die;Küste;coast;Küsten
 das;Messer;knife;Messer
 die;Messung;measuring, measurement;Messungen
 das;Motto;motto;Mottos
@@ -1236,38 +1236,38 @@ der;Passagier;passenger;Passagiere
 die;Premiere;opening night;Premieren
 die;Probe;sample, test, rehearsal;Proben
 der;Quadratmeter;square meter;Quadratmeter
-der;Saal;hall;S�le
-die;Schw�che;weakness;Schw�chen
+der;Saal;hall;Säle
+die;Schwäche;weakness;Schwächen
 der;Sektor;sector;Sektoren
-der;Sprung;jump;Spr�nge
+der;Sprung;jump;Sprünge
 das;Symptom;symptom;Symptome
 das;Tennis;tennis;
 das;Top;top;Tops
-das;Tuch;cloth;T�cher
-die;�berraschung;surprise;�berraschungen
-die;�bersetzung;translation;�bersetzungen
+das;Tuch;cloth;Tücher
+die;Überraschung;surprise;Überraschungen
+die;Übersetzung;translation;Übersetzungen
 die;Verbreitung;spread;Verbreitungen
 das;Virus;virus;Viren
 das;Vorhaben;plan, project;Vorhaben
 die;Vorlage;draft, model;Vorlagen
-die;W�rme;warmth, heat;
+die;Wärme;warmth, heat;
 die;Werbung;advertising;Werbungen
 die;Wiese;meadow;Wiesen
 das;Zelt;tent;Zelte
-der;Anh�nger;supporter, trailer;Anh�nger
+der;Anhänger;supporter, trailer;Anhänger
 die;Anzeige;display, advertisement;Anzeigen
-die;Aufkl�rung;enlightenment, solution;Aufkl�rungen
-die;Aufl�sung;dissolving, breaking up;Aufl�sungen
+die;Aufklärung;enlightenment, solution;Aufklärungen
+die;Auflösung;dissolving, breaking up;Auflösungen
 die;Bestellung;order, reservation;Bestellungen
 der;Bude;boy;Buden
-das;B�ndnis;alliance;B�ndnisse
+das;Bündnis;alliance;Bündnisse
 die;Burg;castle;Burgen
 der;Dialekt;dialect;Dialekte
-die;Durchf�hrung;carrying out;Durchf�hrungen
+die;Durchführung;carrying out;Durchführungen
 die;Einigung;agreement;Einigungen
 die;Einsicht;view, insight;Einsichten
-das;Ged�chtnis;memory;Ged�chtnisse
-das;Gef�ngnis;gesture;Gef�ngnisse
+das;Gedächtnis;memory;Gedächtnisse
+das;Gefängnis;gesture;Gefängnisse
 die;Gleichung;equation;Gleichungen
 die;Herrschaft;power, reign;Herrschaften
 die;Infrastruktur;infrastructure;Infrastrukturen
@@ -1285,7 +1285,7 @@ der;Schein;light, appearance, certificate;Scheine
 der;Schnitt;cut;Schnitte
 die;Schnittstelle;interface;Schnittstellen
 die;Schulden;debt;
-die;Sehnsucht;longing;Sehns�chte
+die;Sehnsucht;longing;Sehnsüchte
 der;Skandal;scandal;Skandale
 das;Stadion;stadium;Stadien
 der;Tipp;tip, hint;Tipps
@@ -1298,39 +1298,39 @@ der;Anblick;sight;Anblicke
 das;Anliegen;request;Anliegen
 die;Anpassung;adaptation;Anpassungen
 der;Anstieg;rise, increase;Anstiege
-das;Arbeitsamt;employment office;Arbeits�mter
+das;Arbeitsamt;employment office;Arbeitsämter
 der;Befehl;order;Befehle
 die;Bereitschaft;willingness;Bereitschaften
 die;Beschwerde;complaint;Beschwerden
-der;Bogen;bow, arc, sheet;B�gen
+der;Bogen;bow, arc, sheet;Bögen
 die;Bundesliga;national sports division;Bundesligen
 die;Droge;drug;Drogen
 die;Ehre;honor;Ehren
-das;Eigentum;property;Eigent�mer
-der;Einzelfall;individual, case;Einzelf�lle
+das;Eigentum;property;Eigentümer
+der;Einzelfall;individual, case;Einzelfälle
 die;Epoche;epoch;Epochen
 der;Erreger;agent, virus, germ;Erreger
 die;Feststellung;observation, remark;Feststellungen
 die;Formulierung;formulation;Formulierungen
-das;Gel�nde;ground, site;Gel�nde
+das;Gelände;ground, site;Gelände
 der/die;Geliebte;lover;Geliebte
 die;Geschwister;siblings;Geschwister
 das;Gramm;gram;Gramme
 die;Inszenierung;production, staging;Inszenierungen
-der;Kapit�n;captain;Kapit�ne
+der;Kapitän;captain;Kapitäne
 die;Kiste;box, crate;Kisten
 der;Knochen;bone;Knochen
 der;Kontext;context;Kontexte
 das;Kunstwerk;work of art;Kunstwerke
 das;Lebewesen;living being;Lebewesen
 der;Lastkraftwagen;truck;Lastkraftwagen
-der;Lohn;wage, pay, reward;L�hne
-der;Magen;stomach;M�gen
+der;Lohn;wage, pay, reward;Löhne
+der;Magen;stomach;Mägen
 die;Mode;fashion;Moden
-der;M�rder;murderer;M�rder
-die;�ffnung;opening, hole;�ffnungen
+der;Mörder;murderer;Mörder
+die;Öffnung;opening, hole;Öffnungen
 die;Partie;game;Partien
-das;Rathaus;town hall;Rath�user
+das;Rathaus;town hall;Rathäuser
 die;Reflexion;reflection;Reflexionen
 die;Rente;pension;Renten
 die;Show;show;Shows
@@ -1338,7 +1338,7 @@ die;Stiftung;foundation, institute, donation;Stiftungen
 der;Teller;plate;Teller
 die;Unterscheidung;differentiation, distinction;Unterscheidungen
 die;Version;version;Versionen
-der;W�hler;voter;W�hler
+der;Wähler;voter;Wähler
 die;Wechselwirkung;interaction;Wechselwirkungen
 der;Zettel;piece of paper, note;Zettel
 der;Zins;interest;Zinsen
@@ -1347,18 +1347,18 @@ der;Abbau;reduction, decline, mining;Abbaue
 die;Agentur;agency;Agenturen
 die;Akademie;academy;Akademien
 die;Anfrage;inquiry, request;Anfragen
-die;Auff�hrung;performance;Auff�hrungen
+die;Aufführung;performance;Aufführungen
 die;Auflage;edition, condition, plating;Auflagen
 der;Ausbau;extension, consolidation;Ausbaue
-der;B�r;bear;B�ren
+der;Bär;bear;Bären
 das;Bedenken;concern, doubt;Bedenken
 der;Buchstabe;letter;Buchstaben
 das;Dokument;document;Dokumente
 die;Einzelheit;detail;Einzelheiten
-die;Erf�llung;fulfillment;Erf�llungen
-der;F�hrer;leader, guide;F�hrer
+die;Erfüllung;fulfillment;Erfüllungen
+der;Führer;leader, guide;Führer
 die;Fusion;fusion, merger;Fusionen
-der;Geruch;smell;Ger�che
+der;Geruch;smell;Gerüche
 das;Gleichgewicht;balance;Gleichgewichte
 der;Investor;investor;Investoren
 der;Kerl;fellow, bloke;Kerle
@@ -1367,31 +1367,31 @@ der;Komponist;composer;Komponisten
 die;Kurve;curve;Kurven
 das;Labor;laboratory;Labors
 der;Landkreis;district;Landkreise
-das;M�rchen;fairy tale;M�rchen
+das;Märchen;fairy tale;Märchen
 das;Mittelalter;Middle Ages;
-das;M�bel;piece of furniture;M�bel
+das;Möbel;piece of furniture;Möbel
 die;Moderne;modern age;
 der;Nerv;nerve;Nerven
-der;Ofen;oven, stove;�fen
+der;Ofen;oven, stove;Öfen
 die;Pflege;care;
 die;Plattform;platform;Plattformen
 der;Posten;post, position;Posten
 der;Profi;pro, professional;Profis
 das;Regime;regime;Regime
-der;Rock;skirt, rock music;R�cke
-der;R�cktritt;resignation;R�cktritte
-der;Schrank;cabinet, wardrobe;Schr�nke
-die;Sekret�rin;secretary;Sekret�rinnen
-die;Solidarit�t;solidarity;Solidarit�ten
+der;Rock;skirt, rock music;Röcke
+der;Rücktritt;resignation;Rücktritte
+der;Schrank;cabinet, wardrobe;Schränke
+die;Sekretärin;secretary;Sekretärinnen
+die;Solidarität;solidarity;Solidaritäten
 der;Sportler;athlete;Sportler
-die;Stabilit�t;stability;
+die;Stabilität;stability;
 der;Status;status;Status
-der;Staub;dust;St�ube
-der;Tanz;dance;T�nze
-der;Topf;pot;T�pfe
-der;�berblick;view, overview;�berblicke
+der;Staub;dust;Stäube
+der;Tanz;dance;Tänze
+der;Topf;pot;Töpfe
+der;Überblick;view, overview;Überblicke
 die;Unsicherheit;uncertainty;Unsicherheiten
-der;Vorhang;curtain;Vorh�nge
+der;Vorhang;curtain;Vorhänge
 der;Winkel;angle, corner;Winkel
 das;Zitat;quotation, quote;Zitate
 das;Abenteuer;adventure;Abenteuer
@@ -1408,19 +1408,19 @@ das;Dunkel;darkness;
 der;Durchmesser;diameter;Durchmesser
 die;Einladung;invitation;Einladungen
 die;Empfehlung;recommendation;Empfehlungen
-die;Er�ffnung;opening;Er�ffnungen
+die;Eröffnung;opening;Eröffnungen
 der;Felsen;rock;Felsen
-die;Fl�ssigkeit;liquid;Fl�ssigkeiten
-das;Fr�ulein;young lady, miss;Fr�ulein
-der;Friedhof;cemetery;Friedh�fe
+die;Flüssigkeit;liquid;Flüssigkeiten
+das;Fräulein;young lady, miss;Fräulein
+der;Friedhof;cemetery;Friedhöfe
 die;Front;front;Fronten
-die;F�lle;abundance;F�llen
+die;Fülle;abundance;Füllen
 das;Gebirge;mountains;Gebirge
-das;Gesch�ftsjahr;financial year;Gesch�ftsjahre
-das;Gras;grass;Gr�ser
-die;Gro�stadt;city, large town;Gro�st�dte
-der;Hang;slope, inclination;H�nge
-der;H�gel;hill;H�gel
+das;Geschäftsjahr;financial year;Geschäftsjahre
+das;Gras;grass;Gräser
+die;Großstadt;city, large town;Großstädte
+der;Hang;slope, inclination;Hänge
+der;Hügel;hill;Hügel
 der;Ingenieur;engineer;Ingenieure
 der;Kongress;congress, convention;Kongresse
 der;Muskel;muscle;Muskeln
@@ -1428,7 +1428,7 @@ der;Nachweis;proof, evidence, certificate;Nachweise
 die;Orientierung;orientation;Orientierungen
 der;Personenkraftwagen;car, auto;Personenkraftwagen
 der;Rhythmus;rhythm;Rhythmen
-die;R�cksicht;consideration;R�cksichten
+die;Rücksicht;consideration;Rücksichten
 der;Senat;senate;Senate
 die;Steuerung;control, steering;Steuerungen
 der;Stolz;pride;
@@ -1450,73 +1450,73 @@ die;Ablehnung;refusal, rejection;Ablehnungen
 die;Abstimmung;vote, coordination;Abstimmungen
 die;Anordnung;order;Anordnungen
 die;Anregung;stimulus, idea;Anregungen
-der;Aufsatz;essay;Aufs�tze
-der;Backofen;oven;Back�fen
+der;Aufsatz;essay;Aufsätze
+der;Backofen;oven;Backöfen
 die;Bakterie;bacterium;Bakterien
 der;Befund;results;Befunde
-die;Bem�hung;effort;Bem�hungen
+die;Bemühung;effort;Bemühungen
 der;Beobachter;observer;Beobachter
 der;Berater;advisor, consultant;Berater
 der;Betrachter;observer;Betrachter
 das;Betriebssystem;operating system;Betriebssysteme
 der;Bildschirm;screen, monitor;Bildschirme
-die;Bl�te;blossom;Bl�ten
+die;Blüte;blossom;Blüten
 die;Brille;glasses;Brillen
 die;Datenverarbeitung;data processing;Datenverarbeitungen
-der;Eigent�mer;owner;Eigent�mer
+der;Eigentümer;owner;Eigentümer
 die;Eintragung;entry, registration;
 das;Ensemble;ensemble;Ensembles
-die;Entt�uschung;disappointment;Entt�uschungen
-die;Faust;fist;F�uste
+die;Enttäuschung;disappointment;Enttäuschungen
+die;Faust;fist;Fäuste
 das;Festival;festival;Festivals
 die;Galerie;gallery;Galerien
-das;Gem�se;vegetables;Gem�se
+das;Gemüse;vegetables;Gemüse
 die;Genehmigung;approval, permit, permission;Genehmigungen
-der;Gro�vater;grandfather;Gro�v�ter
+der;Großvater;grandfather;Großväter
 die;Grundschule;primary school;Grundschulen
 der;Hass;hatred;
-die;H�hle;cave;H�hlen
-die;Innenstadt;town center, downtown;Innenst�dte
-das;Kloster;monastery, convent;Kl�ster
+die;Höhle;cave;Höhlen
+die;Innenstadt;town center, downtown;Innenstädte
+das;Kloster;monastery, convent;Klöster
 die;Kohle;coal;Kohlen
 der;Konsument;consumer;Konsumenten
-der;L�rm;noise;
+der;Lärm;noise;
 der;Liter;liter;Liter
 das;Lokal;pub, bar;Lokale
 die;Malerei;painting;Malereien
-der;Ma�stab;scale, yardstick, standard;Ma�st�be
+der;Maßstab;scale, yardstick, standard;Maßstäbe
 die;Materie;matter;Materien
-die;M�nze;coin;M�nzen
+die;Münze;coin;Münzen
 das;Netzwerk;network;Netzwerke
 das;Praktikum;internship;Praktika
-der;R�ckgang;fall, decline;R�ckg�nge
-der;Sack;sack;S�cke
+der;Rückgang;fall, decline;Rückgänge
+der;Sack;sack;Säcke
 der;Schuldner;debtor;Schuldner
 die;Sportart;type of sport, discipline;Sportarten
-der;Stamm;trunk, stem, tribe;St�mme
+der;Stamm;trunk, stem, tribe;Stämme
 der;Streifen;stripe, strip;Streifen
 die;Tasse;cup;Tassen
 der;Teppich;carpet;Teppiche
 der;Teufel;devil;Teufel
-die;�berpr�fung;screening, check, inspection;�berpr�fungen
+die;Überprüfung;screening, check, inspection;Überprüfungen
 der;Unsinn;nonsense;
 das;Verbot;ban, prohibition;Verbote
 die;Vermutung;assumption, presumption;Vermutungen
 die;Versammlung;meeting, gathering, assembly;Versammlungen
-die;W�sche;washing, laundry;W�schen
-die;Werkstatt;workshop, garage;Werkst�tten
+die;Wäsche;washing, laundry;Wäschen
+die;Werkstatt;workshop, garage;Werkstätten
 die;Wirtschaftspolitik;economic policy;Wirtschaftspolitiken
 das;Zeug;stuff;Zeuge
 die;Zunge;tongue;Zungen
-der;Zwang;force, pressure, compulsion;Zw�nge
+der;Zwang;force, pressure, compulsion;Zwänge
 das;Antibiotikum;antibiotic;Antibiotika
 die;Anweisung;instruction;Anweisungen
-der;Anzug;suit;Anz�ge
+der;Anzug;suit;Anzüge
 die;Architektur;architecture;Architekturen
 das;Atom;atom;Atome
 der;Aufstieg;climb, rise;Aufstiege
-der;Ausflug;outing, trip;Ausfl�ge
-der;Ausgang;exit, outcome, starting point;Ausg�nge
+der;Ausflug;outing, trip;Ausflüge
+der;Ausgang;exit, outcome, starting point;Ausgänge
 die;Ausstattung;equipment, provision, furnishings;Ausstattungen
 die;Bearbeitung;working, handling;Bearbeitungen
 die;Besonderheit;characteristic, specific, feature;Besonderheiten
@@ -1529,34 +1529,34 @@ die;Differenzierung;differentiation;Differenzierungen
 der;Dirigent;musical conductor;Dirigenten
 die;Entdeckung;discovery;Entdeckungen
 die;Erfindung;invention;Erfindungen
-der;Ersatz;replacement, compensation;Ers�tze
+der;Ersatz;replacement, compensation;Ersätze
 die;Feuerwehr;fire brigade;Feuerwehren
 das;Fieber;fever;Fieber
 die;Fluggesellschaft;airline;Fluggesellschaften
-die;Geb�hr;fee;Geb�hren
-das;Gep�ck;luggage;
-das;Ger�cht;rumor;Ger�chte
+die;Gebühr;fee;Gebühren
+das;Gepäck;luggage;
+das;Gerücht;rumor;Gerüchte
 der;Gesetzgeber;legislator, legislature;Gesetzgeber
 die;Gliederung;structure, organization;Gliederungen
-das;Grab;grave;Gr�ber
+das;Grab;grave;Gräber
 der;Grenzwert;limiting value, limit;Grenzwerte
 das;Handwerk;craft, trade;Handwerke
 das;Heft;notebook;Hefte
 der;Helfer;helper, accomplice;Helfer
 die;Intelligenz;intelligence;Intelligenzen
-der;J�ger;hunter;J�ger
+der;Jäger;hunter;Jäger
 die;Kartoffel;potato;Kartoffeln
-der;K�se;cheese;K�se
-der;Klang;sound, tone;Kl�nge
+der;Käse;cheese;Käse
+der;Klang;sound, tone;Klänge
 der;Kompromiss;compromise;Kompromisse
-die;K�nigin;queen;K�niginnen
+die;Königin;queen;Königinnen
 die;Konstruktion;construction, design;Konstruktionen
-der;Kreislauf;circulation;Kreisl�ufe
+der;Kreislauf;circulation;Kreisläufe
 die;Kugel;ball, sphere, bullet;Kugeln
-die;Kuh;cow;K�he
+die;Kuh;cow;Kühe
 die;Leiche;corpse;Leichen
 die;Leidenschaft;passion;Leidenschaften
-die;Leistungsf�higkeit;productivity, power;Leistungsf�higkeiten
+die;Leistungsfähigkeit;productivity, power;Leistungsfähigkeiten
 die;Lieferung;delivery;Lieferungen
 die;Liga;league;Ligen
 das;Milligramm;milligram;Milligramme
@@ -1572,20 +1572,20 @@ die;Rezession;recession;Rezessionen
 der;Salon;salon, drawing room;Salons
 die;Schauspielerin;actress;Schauspielerinnen
 die;Schwangerschaft;pregnancy;Schwangerschaften
-der;Schwei�;sweat;Schwei�e
+der;Schweiß;sweat;Schweiße
 die;Skala;scale, dial, range;Skalas
 die;Spalte;fissure, cleft, column;Spalten
 das;Spektrum;spectrum;Spektren
 die;Steckdose;socket, electrical outlet;Steckdosen
 die;Tafel;board, table;Tafeln
-das;Tagebuch;diary;Tageb�cher
+das;Tagebuch;diary;Tagebücher
 das;Talent;talent;Talente
 das;Tempo;pace, speed;Tempi
 die;Unruhe;restlessness, agitation;Unruhen
 die;Unterschrift;signature;Unterschriften
-der;Ursprung;origin;Urspr�nge
+der;Ursprung;origin;Ursprünge
 das;Verbrechen;crime;Verbrechen
-das;Vergn�gen;pleasure;Vergn�gen
+das;Vergnügen;pleasure;Vergnügen
 die;Verhaltensweise;behavior;Verhaltensweisen
 der;Vermieter;landlord;Vermieter
 die;Vernunft;reason;
@@ -1593,7 +1593,7 @@ die;Verordnung;prescription, order;Verordnungen
 die;Villa;villa;
 der;Vormittag;morning;Vormittage
 das;Wohnzimmer;living room;Wohnzimmer
-die;Zerst�rung;destruction;Zerst�rungen
+die;Zerstörung;destruction;Zerstörungen
 der;Zinssatz;interest rate;
 die;Zulassung;admission, license;Zulassungen
 die;Zusammensetzung;composition;Zusammensetzungen
@@ -1606,20 +1606,20 @@ die;Batterie;battery;Batterien
 das;Chaos;chaos;
 die;Chefin;director, boss;Chefinnen
 der;Chip;chip, crisp;Chips
-der;Chor;choir, chorus;Ch�re
+der;Chor;choir, chorus;Chöre
 das;Design;design;Designs
 der;Dolmetscher;interpreter;Dolmetscher
 der;Durchschnitt;average;Durchschnitte
 das;Ehepaar;married couple;Ehepaare
-der;Einbruch;break in, collapse;Einbr�che
+der;Einbruch;break in, collapse;Einbrüche
 der;Eintritt;entry, admission;Eintritte
 die;Erholung;recovery, relaxation, rest;Erholungen
-der;Europ�er;European;Europ�er
+der;Europäer;European;Europäer
 die;Fabrik;factory;Fabriken
-die;Furcht;fear;F�rchte
+die;Furcht;fear;Fürchte
 die;Geduld;patience;
-der;General;general;Gener�le
-das;Getr�nk;drink, beverage;Getr�nke
+der;General;general;Generäle
+das;Getränk;drink, beverage;Getränke
 das;Gewehr;rifle, shotgun;Gewehre
 das;Glied;limb, joint, link;Glieder
 der;Graf;count, earl;Grafen
@@ -1627,40 +1627,40 @@ das;Gremium;committee;Gremien
 die;Gunst;goodwill, favor;
 das;Gutachten;report, reference;Gutachten
 der;Handwerker;workman, tradesman;Handwerker
-die;Haust�r;front door;Haust�ren
+die;Haustür;front door;Haustüren
 die;Hypothese;hypothesis;Hypothesen
 die;Kassette;cassette, tape;Kassetten
-der;Kasten;box, crate;K�sten
+der;Kasten;box, crate;Kästen
 der;Kommentar;comment, opinion;Kommentare
 die;Konzeption;concept, conception;Konzeptionen
-die;Kreativit�t;creativity;Kreativit�ten
+die;Kreativität;creativity;Kreativitäten
 das;Magazin;magazine, storehouse;Magazine
 der;Marktanteil;market share;Marktanteile
-die;Maus;mouse;M�use
+die;Maus;mouse;Mäuse
 das;Menschenrecht;human right;Menschenrechte
 der;Mieter;tenant;Mieter
-das;Milit�r;military;
+das;Militär;military;
 die;Minderheit;minority;Minderheiten
 das;Ministerium;ministry, department;Ministerien
 der;Mythos;myth, legend;Mythen
 die;Naturwissenschaft;natural science;Naturwissenschaften
-der;Parkplatz;parking place;Parkpl�tze
+der;Parkplatz;parking place;Parkplätze
 die;Partnerschaft;partnership;Partnerschaften
 die;Periode;period;Perioden
-das;Pr�parat;preparation, medication;Pr�parate
+das;Präparat;preparation, medication;Präparate
 die;Provinz;province, provinces;Provinzen
 die;Rahmenbedingung;prevailing, condition;Rahmenbedingungen
 der;Regierungschef;head of government;Regierungschefs
-die;S�ule;column, pillar;S�ulen
+die;Säule;column, pillar;Säulen
 die;Scheidung;divorce;Scheidungen
-die;Sch�nheit;beauty;Sch�nheiten
+die;Schönheit;beauty;Schönheiten
 der;Spezialist;specialist;Spezialisten
 die;Steigerung;increase;Steigerungen
 der;Stellvertreter;deputy;Stellvertreter
 die;Subvention;subsidy;Subventionen
 das;Ticket;ticket;Tickets
 der;Tunnel;tunnel;Tunnel
-die;�bersicht;overview;�bersichten
+die;Übersicht;overview;Übersichten
 die;Uniform;uniform;Uniformen
 das;Unrecht;injustice, wrong;
 das;Vitamin;vitamin;Vitamine
@@ -1672,40 +1672,40 @@ der;Zucker;sugar;Zucker
 das;Abkommen;agreement;Abkommen
 der;Absolvent;graduate;Absolventen
 die;Abwehr;defense;Abwehren
-der;Apfel;apple;�pfel
-die;Arbeitskraft;work capacity, worker;Arbeitskr�fte
+der;Apfel;apple;Äpfel
+die;Arbeitskraft;work capacity, worker;Arbeitskräfte
 der;Assistent;assistant;Assistenten
 die;Auswertung;evaluation, analysis;Auswertungen
 die;Bar;bar;Bars
 die;Bedrohung;threat;Bedrohungen
-die;Bek�mpfung;fighting, controlling;Bek�mpfungen
-die;Beschr�nkung;restriction;Beschr�nkungen
-der;Block;block;Bl�cke
+die;Bekämpfung;fighting, controlling;Bekämpfungen
+die;Beschränkung;restriction;Beschränkungen
+der;Block;block;Blöcke
 das;Darlehen;loan;Darlehen
 das;Datum;date;Daten
 die;Erhaltung;preservation, maintenance;Erhaltungen
-der;Erz�hler;storyteller, narrator;Erz�hler
+der;Erzähler;storyteller, narrator;Erzähler
 der;Fachbereich;academic department, field;Fachbereiche
 die;Fachleute;experts;
 die;Fakten;facts;
 die;Fassung;version, composure, frame, socket;Fassungen
-der;Fl�gel;wing;Fl�gel
+der;Flügel;wing;Flügel
 das;Forum;forum, audience, public discussion;Foren
 die;Frequenz;frequency;Frequenzen
-die;Frucht;fruit;Fr�chte
+die;Frucht;fruit;Früchte
 die;Gerechtigkeit;justice;Gerechtigkeiten
 der;Gipfel;peak, summit;Gipfel
-der;Gro�teil;large part, majority;Gro�teile
-der;H�rer;listener, receiver;H�rer
-das;Industrieland;industrialized country;Industriel�nder
+der;Großteil;large part, majority;Großteile
+der;Hörer;listener, receiver;Hörer
+das;Industrieland;industrialized country;Industrieländer
 die;Jacke;jacket;Jacken
 die;Jagd;hunt, chase;Jagden
 die;Jahreszeit;season;Jahreszeiten
 die;Lampe;lamp;Lampen
 die;Linse;lens;Linsen
-die;L�cke;gap;L�cken
+die;Lücke;gap;Lücken
 das;Metall;metal;Metalle
-der;Missbrauch;abuse, misuse;Missbr�uche
+der;Missbrauch;abuse, misuse;Missbräuche
 die;Motivation;motivation;Motivationen
 die;Option;option;Optionen
 der;Ordner;file;Ordner
@@ -1716,26 +1716,26 @@ die;Reichweite;reach, range;Reichweiten
 die;Reparatur;repair;Reparaturen
 der;Respekt;respect;
 die;Rose;rose;Rosen
-der;Rucksack;rucksack, backpack;Rucks�cke
-der;S�nger;singer;S�nger
+der;Rucksack;rucksack, backpack;Rucksäcke
+der;Sänger;singer;Sänger
 die;Tablette;tablet, pill;Tabletten
 die;Tageszeitung;daily newspaper;Tageszeitungen
 der;Therapeut;therapist;Therapeuten
-der;Umzug;move, parade;Umz�ge
+der;Umzug;move, parade;Umzüge
 der;Veranstalter;organizer;Veranstalter
-die;Verkn�pfung;combination, link;Verkn�pfungen
+die;Verknüpfung;combination, link;Verknüpfungen
 das;Vorfeld;advance;Vorfelder
-der;Vorg�nger;predecessor;Vorg�nger
-die;W�hrung;currency;W�hrungen
+der;Vorgänger;predecessor;Vorgänger
+die;Währung;currency;Währungen
 der;Weltmeister;world champion;Weltmeister
 die;Wut;rage, fury;
 die;Zuordnung;classification, assignment;Zuordnungen
-der;Zuwachs;increase;Zuw�chse
-der;Abfall;waste, trash;Abf�lle
+der;Zuwachs;increase;Zuwächse
+der;Abfall;waste, trash;Abfälle
 die;Akte;file;Akten
 die;Anleihe;loan, bond, borrowing;Anleihen
 die;Arbeitszeit;working hours;Arbeitszeiten
-der;Aufsichtsrat;supervisory board;Aufsichtsr�te
+der;Aufsichtsrat;supervisory board;Aufsichtsräte
 der;Ausgangspunkt;starting point;Ausgangspunkte
 die;Ausrichtung;orientation, organization;Ausrichtungen
 der;Ausweis;identity card;Ausweise
@@ -1745,16 +1745,16 @@ der;Einblick;insight;Einblicke
 der;Engel;angel;Engel
 die;Erfassung;recording, entry;Erfassungen
 die;Fahne;flag;Fahnen
-die;Fakult�t;faculty;Fakult�ten
+die;Fakultät;faculty;Fakultäten
 die;Fassade;facade, front;Fassaden
 die;Feier;celebration;Feiern
-der;Fr�hling;spring;Fr�hlinge
+der;Frühling;spring;Frühlinge
 der;Gemeinderat;district council;
 das;Gewebe;fabric, tissue;Gewebe
-der;Gru�;greeting;Gr��e
+der;Gruß;greeting;Grüße
 der;Jurist;jurist, law student;Juristen
 die;Kerze;candle;Kerzen
-der;Koch;cook;K�che
+der;Koch;cook;Köche
 die;Kommune;municipality, local authority;Kommunen
 die;Koralle;coral;Korallen
 die;Krankenkasse;health insurance, company;Krankenkassen
@@ -1769,13 +1769,13 @@ die;Relation;appropriateness, proportion, relation;Relationen
 das;Riff;reef;Riffe
 die;Schlange;snake, line;Schlangen
 das;Schwein;pig;Schweine
-die;Selbstst�ndigkeit;independence;
+die;Selbstständigkeit;independence;
 die;Siedlung;settlement, housing development;Siedlungen
-der;Spruch;saying, slogan;Spr�che
+der;Spruch;saying, slogan;Sprüche
 die;Stellungnahme;opinion, statement;Stellungnahmen
 der;Strahl;ray, beam;Strahlen
-die;Str�mung;current, trend;Str�mungen
+die;Strömung;current, trend;Strömungen
 die;Verbindlichkeit;obligation, liability, reliability;
 das;Volumen;volume, total amount;Volumen
 der;Zugriff;access;Zugriffe
-der;Zuh�rer;listener, audience;Zuh�rer
+der;Zuhörer;listener, audience;Zuhörer
